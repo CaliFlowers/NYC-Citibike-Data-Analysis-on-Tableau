@@ -1,5 +1,6 @@
 # NYC-Citibike-Data-Analysis-on-Tableau
-This is a Tableau project that examinesthe impact of the CoviD-19 pandemic on  New York City's bicycle renting program in pursuit of making recommendations about real-life phenoomena, and decisions. Check out the final result [here](https://public.tableau.com/profile/alexei.flores#!/vizhome/CoviDimpactonNYCCitibikeProgram_16155866797150/Story1?publish=yes)
+![](Images/citi-bike-station-bikes.jpg)
+This is a Tableau project that examines the impact of the CoviD-19 pandemic on  New York City's bicycle renting program in pursuit of making recommendations about real-life phenoomena, and decisions. Check out the final result [here](https://public.tableau.com/profile/alexei.flores#!/vizhome/CoviDimpactonNYCCitibikeProgram_16155866797150/Story1?publish=yes)
 ## Tableau
 Tableau is a pouplar software for creating dashboards that visualize data; and for effective storytelling with that data. It provides an easy-to-use tool for making quickcharts analysesand aggregations; ad for turning data  into intuitive plots and the like. A [public Tableau profile](https://public.tableau.com/profile/alexei.flores#!/) is also a good place to showcase and host a data analyst's work. 
 ## The Impact of the CoviD-19 Pandemic on New York City's Citibike program
